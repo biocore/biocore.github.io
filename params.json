@@ -1,6 +1,6 @@
 {
   "name": "biocore",
   "tagline": "Collaboratively developed bioinformatics software",
-  "body": "biocore is a collection of collaboratively developed software. Many of our projects are available in the [biocore organization](http://github.com/biocore). \r\n\r\nOur larger projects are in their own organizations, including: \r\n\r\n* [QIIME 2](http://github.com/qiime2)\r\n* [Qiita plugins](http://github.com/qiita-spots)\r\n* [scikit-bio](http://www.scikit-bio.org)\r\n",
+  "body": "biocore is a collection of collaboratively developed software. Many of our projects are available in the [biocore organization](http://github.com/biocore). \r\n\r\nOur larger projects are in their own organizations, including: \r\n\r\n* [QIIME 2](http://github.com/qiime2)\r\n* [Qiita plugins](http://github.com/qiita-spots)\r\n* [scikit-bio](http://github.com/scikit-bio)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
